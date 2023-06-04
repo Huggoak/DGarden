@@ -15,7 +15,7 @@ body {
   
   body::before {
     content: "";
-    background: url("img/photo-1515150144380-bca9f1650ed9.avif")no-repeat center center fixed;
+    background: url("img/photo-1515150144380-bca9f1650ed9.jpg")no-repeat center center fixed;
     opacity: 0.3; /* Adjust the opacity value as desired */
     top: 0;
     left: 0;
